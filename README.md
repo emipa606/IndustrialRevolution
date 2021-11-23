@@ -1,1 +1,1 @@
-# IndustrialRevolution
+This is the 1.3 port of [Industrial Revolution](https://ludeon.com/forums/index.php?PHPSESSID=fe7834866dd2c1d79f8e87d999b8b42f&topic=33189.0). Feedback is welcome since I never used that mod (port was a request).
