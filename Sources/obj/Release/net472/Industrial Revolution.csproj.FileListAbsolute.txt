@@ -1,0 +1,5 @@
+C:\Users\Jonasz\Downloads\Industrial Revolution\Industrial Revolution\Assemblies\net472\IndustralRevolution.dll
+C:\Users\Jonasz\Downloads\Industrial Revolution\Industrial Revolution\Sources\obj\Release\net472\Industrial Revolution.csproj.AssemblyReference.cache
+C:\Users\Jonasz\Downloads\Industrial Revolution\Industrial Revolution\Sources\obj\Release\net472\Industrial Revolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonasz\Downloads\Industrial Revolution\Industrial Revolution\Sources\obj\Release\net472\Industrial Revolution.csproj.CoreCompileInputs.cache
+C:\Users\Jonasz\Downloads\Industrial Revolution\Industrial Revolution\Sources\obj\Release\net472\IndustralRevolution.dll

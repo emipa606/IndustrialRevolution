@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldC/WXsoFdx3duKIeg7BsYeW6dDYI7pEQVZni/bqLVakLgFcNHVyr6j94B0dxbZH6eZfLodwXJSOLBBne39z/w==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Industrial Revolution\\Sources\\Industrial Revolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonasz\\.nuget\\packages\\krafs.publicizer\\1.0.1\\krafs.publicizer.1.0.1.nupkg.sha512",
+    "C:\\Users\\Jonasz\\.nuget\\packages\\krafs.rimworld.ref\\1.3.3159\\krafs.rimworld.ref.1.3.3159.nupkg.sha512"
+  ],
+  "logs": []
+}

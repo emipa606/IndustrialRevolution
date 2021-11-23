@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Industrial Revolution", "Industrial Revolution.csproj", "{FBB130B3-1497-47FC-9051-1159B2CD119A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB130B3-1497-47FC-9051-1159B2CD119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB130B3-1497-47FC-9051-1159B2CD119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB130B3-1497-47FC-9051-1159B2CD119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB130B3-1497-47FC-9051-1159B2CD119A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64D7B763-2A75-4078-806C-66E102A8948D}
+	EndGlobalSection
+EndGlobal
